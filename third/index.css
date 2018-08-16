@@ -1,0 +1,41 @@
+header {
+    background-color: lightgray;
+    height: 100px;
+    padding: 10px;
+}
+
+#bluebox {
+    background-color: rgb(76, 122, 252);
+    height: 80px;
+    width: 80px;
+}
+
+.words {
+    background-color: white;
+    height: 30vh;
+    text-align: center;
+    margin-top: 50px;
+}
+h2 {
+    font-size: 30px;
+}
+
+#blue {
+    background-color: rgb(39, 69, 238);
+    height: 15vh;
+}
+
+#teal {
+    background-color: rgb(39, 198, 238);
+    height: 15vh;
+}
+
+#green {
+    background-color: rgb(39, 238, 115);
+    height: 15vh;
+}
+
+#yellow {
+    background-color: rgb(235, 238, 39);
+    height: 15vh;
+}

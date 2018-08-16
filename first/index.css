@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 7, 7);
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .header {
+    width: 100%;
+    height: 20vh;
+    background-color: #0a94f0;
+  }
+  
+  .main-content {
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    width: 80%;
+    height: 70vh;
+  }
+  
+  .footer { 
+    background-color: #06f361;
+    margin: 0 auto;
+    width: 80%;
+    height: 10vh;
+  }
